@@ -4,21 +4,22 @@ A simple command-line E-Commerce application built using Python and SQLite.
 It supports user authentication, product management, cart operations, and a checkout system, making it a great beginner-friendly database + Python project.
 
  Features
- User Authentication
+ 
+ 1.User Authentication
 
-Register new users
+ 2.Register new users
 
-Login with secure password input (getpass)
+ 3.Login with secure password input (getpass)
 
-Duplicate username check
+ 4.Duplicate username check
 
- Product Management
+ 5.Product Management
 
-Add products (Admin feature)
+ 6.Add products (Admin feature)
 
-View all available products
+ 7.View all available products
 
-Each product includes: Name, Price, Description
+ Each product includes: Name, Price, Description
 
  Cart & Checkout
 
