@@ -1,5 +1,5 @@
-**E-Commerce Application (Python + SQLite)
-**
+E-Commerce Application (Python + SQLite)
+
 A simple command-line E-Commerce application built using Python and SQLite.
 It supports user authentication, product management, cart operations, and a checkout system, making it a great beginner-friendly database + Python project.
 
